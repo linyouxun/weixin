@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+dist/
+.project
+.DS_Store
+npm-debug.log
+chunkJs/
+server.*.js
